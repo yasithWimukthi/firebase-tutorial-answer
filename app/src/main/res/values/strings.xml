@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">firebase tutorial</string>
+    <string name="id_hint">Enter your ID</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="address_hint">Enter your address</string>
+    <string name="mobile_hint">Enter your contact number</string>
+    <string name="saveBtn">save</string>
+    <string name="show_btn">show</string>
+    <string name="update_btn">update</string>
+    <string name="delete_btn">delete</string>
+</resources>
